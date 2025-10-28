@@ -1,0 +1,5 @@
+{
+  "name": "CSV Header Extractor",
+  "description": "An application to upload three CSV files and instantly view the headers of each file. It's a simple tool for quick data inspection without opening large files.",
+  "requestFramePermissions": []
+}
